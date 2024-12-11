@@ -1,0 +1,43 @@
+{
+  "teams": [
+      "takuma0101010101"
+    ],
+    "duration": 300,
+    "problem": {
+      "board": {
+        "width": 4,
+        "height": 2,
+        "start": [
+          "0111",
+          "1000"
+        ],
+        "goal": [
+          "1111",
+          "0000"
+        ]
+      },
+      "general": {
+        "n": 2,
+        "patterns": [
+          {
+            "p": 25,
+            "width": 4,
+            "height": 2,
+            "cells": [
+              "0111",
+              "1001"
+            ]
+          },
+          {
+            "p": 26,
+            "width": 2,
+            "height": 2,
+            "cells": [
+              "10",
+              "01"
+            ]
+          }
+        ]
+      }
+    }
+  }
